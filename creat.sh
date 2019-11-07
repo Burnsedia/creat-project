@@ -10,3 +10,6 @@ touch README.md
 git add -A
 git commit -a -m "initial commit"
 git push -u origin master
+}
+
+
