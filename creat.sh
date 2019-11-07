@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 function creat(){
 cd
@@ -10,4 +10,3 @@ touch README.md
 git add -A
 git commit -a -m "initial commit"
 git push -u origin master
-}
